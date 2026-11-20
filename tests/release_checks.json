@@ -1,0 +1,13 @@
+{
+  "tests": [
+    "smoke.do",
+    "oracle.do",
+    "routes.do",
+    "audit_routing.do",
+    "surviving_att.do",
+    "flex_nonzero.do",
+    "csdid_weighting.do",
+    "unidentified_cells.do"
+  ],
+  "cwd": "tests"
+}

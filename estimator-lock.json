@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "estimators": [
+    {
+      "repository": "mattdwebb/fasttwfestata",
+      "commit": "6cacf9f0c7ddc1cafb9022c49e6bf0cf600df064"
+    },
+    {
+      "repository": "mattdwebb/fastdid2sstata",
+      "commit": "bc37c2a271b1868678870e68b7981fa399362a7f"
+    },
+    {
+      "repository": "mattdwebb/fastbjsstata",
+      "commit": "6f0b46f670eff590c54dc20f610e5c03cdef2921"
+    },
+    {
+      "repository": "mattdwebb/fastflexstata",
+      "commit": "c4bbbaced5d34f164acc3670d54b043d018ff33a"
+    },
+    {
+      "repository": "mattdwebb/suiteundidstata",
+      "commit": "64bf73d0a06b6b12602a23d363dfa7e0c641fef4"
+    },
+    {
+      "repository": "mattdwebb/suitedidintstata",
+      "commit": "3f8bcd07330e0554ca0742cc449ceff060680617"
+    },
+    {
+      "repository": "mattdwebb/faststackedstata",
+      "commit": "eee9809150e9a44d1a63f4a708033ba273ffd3bd"
+    },
+    {
+      "repository": "mattdwebb/fastlpdidstata",
+      "commit": "889844c4597d87bdab52342c8915233dbbc20a6c"
+    },
+    {
+      "repository": "mattdwebb/fastcsdid",
+      "commit": "bf4a7ada2e3e0dabaa693a050ab3f6df32416904",
+      "subdirectory": "stata",
+      "sibling_directory": "fastcsdid/stata",
+      "version": "1.0.1",
+      "tag": "v1.0.1",
+      "tag_status": "planned; not yet created"
+    }
+  ],
+  "status": "Exact bundled review commits; use sibling sources until these commits are published"
+}

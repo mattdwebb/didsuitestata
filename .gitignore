@@ -1,0 +1,7 @@
+*.log
+*.smcl
+tests/results.csv
+tests/results.dta
+
+
+examples/school_results.csv

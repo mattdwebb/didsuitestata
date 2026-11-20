@@ -1,0 +1,4 @@
+v 3
+d Native DiD Suite comparison harness
+p didsuite Native same-language estimator comparison harness
+

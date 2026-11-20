@@ -1,0 +1,13 @@
+v 3
+d Version: 0.1.0
+d Author: Matthew D. Webb
+d Native DiD Suite 0.1.0
+d Copyright 2026 Matthew D. Webb. MIT License.
+f didsuite.ado
+f didsuite_discover.ado
+f _didsuite_eval.ado
+f _didsuite_jk.ado
+f didsuite.sthlp
+f LICENSE
+
+f _didsuite_csdid_comparison.ado
