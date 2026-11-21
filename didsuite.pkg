@@ -9,5 +9,4 @@ f _didsuite_eval.ado
 f _didsuite_jk.ado
 f didsuite.sthlp
 f LICENSE
-
 f _didsuite_csdid_comparison.ado

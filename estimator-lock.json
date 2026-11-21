@@ -23,11 +23,11 @@
     },
     {
       "repository": "mattdwebb/suitedidintstata",
-      "commit": "3f8bcd07330e0554ca0742cc449ceff060680617"
+      "commit": "df8cc8e11dd14dc2931484d6b0d9a4e8d465257b"
     },
     {
       "repository": "mattdwebb/faststackedstata",
-      "commit": "eee9809150e9a44d1a63f4a708033ba273ffd3bd"
+      "commit": "8fbba58f4aefe450aced38cac87c6a3db769084e"
     },
     {
       "repository": "mattdwebb/fastlpdidstata",
@@ -40,8 +40,8 @@
       "sibling_directory": "fastcsdid/stata",
       "version": "1.0.1",
       "tag": "v1.0.1",
-      "tag_status": "planned; not yet created"
+      "tag_status": "published; annotated v1.0.1 resolves to the pinned commit; immutable"
     }
   ],
-  "status": "Exact bundled review commits; use sibling sources until these commits are published"
+  "status": "Pinned commits in the live private replacement repositories; canonical public Fast CSDID v1.0.1"
 }

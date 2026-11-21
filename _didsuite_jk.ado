@@ -1,3 +1,4 @@
+*! _didsuite_jk 0.1.0, 21nov2026, Matthew D. Webb; MIT license
 program define _didsuite_jk, rclass
     version 16
     syntax varlist(min=1 numeric) [aw], TIME(varname numeric) CLuster(varname numeric) ///

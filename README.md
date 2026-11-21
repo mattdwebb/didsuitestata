@@ -26,7 +26,7 @@ discard
 didsuite_discover
 ```
 
-For CSDID, use `net install fastcsdid, from("https://raw.githubusercontent.com/mattdwebb/fastcsdid/main/stata/") replace`.
+For CSDID, use `net install fastcsdid, from("https://raw.githubusercontent.com/mattdwebb/fastcsdid/v1.0.1/stata/") replace`.
 The public Fast CSDID distribution is the canonical CSDID dependency. For
 UN-DID, install the separately named `suite_undid` adapter; it does not replace
 the upstream SSC `undid` command. Source checkouts can also be added with

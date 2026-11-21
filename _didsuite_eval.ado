@@ -1,3 +1,4 @@
+*! _didsuite_eval 0.1.0, 21nov2026, Matthew D. Webb; MIT license
 program define _didsuite_eval, rclass
     version 16
     syntax varlist(min=1 numeric) [if] [in] [aw], TIME(varname numeric) ///

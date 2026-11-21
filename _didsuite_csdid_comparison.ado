@@ -1,3 +1,4 @@
+*! _didsuite_csdid_comparison 0.1.0, 21nov2026, Matthew D. Webb; MIT license
 program define _didsuite_csdid_comparison, rclass
     version 16
     syntax varlist(numeric min=1) [if] [in], TIME(varname numeric) GVAR(varname numeric) CLuster(varname numeric) WEIGHTS(varname numeric) METHOD(string) CONTROL(string) [CELLS(name) AGGWeights(string) DELETION]
